@@ -8,4 +8,6 @@
     <string name="kms_por_litro">KMs por litro</string>
     <string name="seu_gasto_total_ser_de">Seu gasto total será de:</string>
     <string name="valor_total">R$ 0</string>
+    <string name="preencha_todos_campos">Preencha todos os campos!</string>
+    <string name="informar_valores_validos">Por favor, informar valores validos!</string>
 </resources>
